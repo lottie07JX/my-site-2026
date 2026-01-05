@@ -22,6 +22,15 @@ h2 {
   color: #b85c38; /* rust */
 }
 
+.btn {
+  background: forestgreen;
+  color: white;
+  padding: 12px 20px;
+  border-radius: 6px;
+  text-decoration: none;
+  display: inline-block;
+}
+
 footer {
   text-align: center;
   padding: 20px;
