@@ -16,8 +16,10 @@ section {
   padding: 40px;
 }
 
-h1, h2 {
-  color: #2f4f4f;
+h1 {
+  color: #2f4f4f; /* dark slate gray */
+h2 {
+  color: #b85c38; /* rust */
 }
 
 footer {
