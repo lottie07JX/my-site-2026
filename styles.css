@@ -1,0 +1,44 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  background: #f5f5f5;
+  color: #333;
+}
+
+header {
+  background-color: #f4f4f4;
+  text-align: center;
+  padding: 40px;
+}
+
+section {
+  max-width: 800px;
+  margin: auto;
+  padding: 40px;
+}
+
+h1 {
+  color: #2f4f4f; /* dark slate gray */
+}
+h2 {
+  color: #b85c38; /* rust */
+}
+
+p {
+  color: green;
+}
+
+.btn {
+  background: forestgreen;
+  color: white;
+  padding: 12px 20px;
+  border-radius: 6px;
+  text-decoration: none;
+  display: inline-block;
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+  background-color: #eee;
+}
