@@ -29,11 +29,11 @@ p {
 }
 
 .btn {
-  display: block;
-  width: max-content;
-  margin: 50px auto 0;
-  text-align: center;
-  background: forestgreen;
+  position: fixed; /* fixed relative to viewport */
+  bottom: 20px; /*20px from the bottom of the page*/
+  left: 50%; /*In the middle horizontally*/
+  transform: translateX(-50%); /*move back 50% of width to dead center*/
+  background: forestgreen; 
   color: white;
   padding: 12px 20px;
   border-radius: 6px;
