@@ -29,7 +29,7 @@ p {
 }
 
 .btn {
-  background: forestgreen;
+  background: forestgreen !important;
   color: white;
   padding: 12px 20px;
   border-radius: 6px;
